@@ -23,9 +23,9 @@ body {
 {
     font-style : italic;
 }
-.underline
+.oblique
 {
-    font-style: underline;
+    font-style: oblique;
 }
 .bold {
     font-weight: bold;
