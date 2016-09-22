@@ -9,7 +9,7 @@ body {
 }
 .left
 {
-    text-align: center;
+    text-align: left;
 }
 
 .text-big {
@@ -23,7 +23,10 @@ body {
 {
     font-style : italic;
 }
-
+.underline
+{
+    font-style: underline;
+}
 .bold {
     font-weight: bold;
     
