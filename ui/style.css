@@ -5,9 +5,9 @@ body {
 }
 
 .center {
-    text-align: left;
+    text-align: center;
 }
-.text-small
+.left
 {
     text-align: center;
 }
@@ -15,10 +15,18 @@ body {
 .text-big {
     font-size: 300%;
 }
+.text-small
+{
+    font-size: 100%;
+}
+.italic
+{
+    font-style : italic;
+}
 
 .bold {
     font-weight: bold;
-    font-style : italic;
+    
     
 }
 
